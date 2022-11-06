@@ -126,7 +126,11 @@
       {
         "address": "https://desmos.nodejumper.io:1317",
         "provider": "Nodejumper 🚀"
-      }         
+      },
+      {
+        "address": "https://api-desmos.starsquid.io",
+        "provider": "Starsquid"
+      } 
     ],
     "grpc": [
       {
